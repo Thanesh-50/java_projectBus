@@ -32,8 +32,6 @@ public  int getCapacity() {//accessor method
 public void setCapacity(int capacity) {//mutator
 	this.capacity = capacity;
 }
-public void displayBusIfo() {
-	System.out.println("Bus No: "+busNo+"Ac: "+Ac+"Total Capacity: "+capacity);
-}
+
   
 }
